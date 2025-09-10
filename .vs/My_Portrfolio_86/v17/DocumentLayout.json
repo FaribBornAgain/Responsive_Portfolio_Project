@@ -1,157 +1,177 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\",
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|c:\\users\\asus\\source\\repos\\my_portfolio_86\\my_portrfolio_86\\admindashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|solutionrelative:my_portrfolio_86\\admindashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\AddSkill.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|solutionrelative:My_Portrfolio_86\\AddSkill.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|c:\\users\\asus\\source\\repos\\my_portfolio_86\\my_portrfolio_86\\adminlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|solutionrelative:my_portrfolio_86\\adminlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|c:\\users\\asus\\source\\repos\\my_portrfolio_86\\my_portrfolio_86\\styles\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|solutionrelative:my_portrfolio_86\\styles\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\DeleteSkill.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\AddProject.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|solutionrelative:My_Portrfolio_86\\AddProject.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\Default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\DeleteProject.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|solutionrelative:My_Portrfolio_86\\DeleteProject.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|c:\\users\\asus\\source\\repos\\my_portfolio_86\\my_portrfolio_86\\addskill.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|solutionrelative:my_portrfolio_86\\addskill.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\Default.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|solutionrelative:My_Portrfolio_86\\Default.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|c:\\users\\asus\\source\\repos\\my_portfolio_86\\my_portrfolio_86\\default.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|solutionrelative:my_portrfolio_86\\default.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\Default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|solutionrelative:My_Portrfolio_86\\Default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|c:\\users\\asus\\source\\repos\\my_portfolio_86\\my_portrfolio_86\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|solutionrelative:my_portrfolio_86\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|c:\\users\\asus\\source\\repos\\my_portrfolio_86\\my_portrfolio_86\\editproject.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|solutionrelative:my_portrfolio_86\\editproject.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|c:\\users\\asus\\source\\repos\\my_portfolio_86\\my_portrfolio_86\\adminregister.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|solutionrelative:my_portrfolio_86\\adminregister.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\AdminLogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|solutionrelative:My_Portrfolio_86\\AdminLogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|c:\\users\\asus\\source\\repos\\my_portfolio_86\\my_portrfolio_86\\adminlogin.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|solutionrelative:my_portrfolio_86\\adminlogin.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\Default.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|c:\\users\\asus\\source\\repos\\my_portfolio_86\\my_portrfolio_86\\addproject.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|solutionrelative:my_portrfolio_86\\addproject.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\my_portrfolio_86\\indexwebform.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|solutionrelative:my_portrfolio_86\\indexwebform.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\AdminRegister.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\AdminDashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\DeleteSkill.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\AddSkill.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\AddProject.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\Default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\Default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\AdminRegister.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|c:\\users\\asus\\source\\repos\\my_portfolio_86\\my_portrfolio_86\\addskill.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|solutionrelative:my_portrfolio_86\\addskill.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\AdminLogin.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|c:\\users\\asus\\source\\repos\\my_portfolio_86\\my_portrfolio_86\\adminregister.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|solutionrelative:my_portrfolio_86\\adminregister.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\AdminLogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|c:\\users\\asus\\source\\repos\\my_portfolio_86\\my_portrfolio_86\\adminlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|solutionrelative:my_portrfolio_86\\adminlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\AdminRegister.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|c:\\users\\asus\\source\\repos\\my_portfolio_86\\my_portrfolio_86\\admindashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|solutionrelative:my_portrfolio_86\\admindashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\AdminLogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|c:\\users\\asus\\source\\repos\\my_portfolio_86\\my_portrfolio_86\\addproject.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|solutionrelative:my_portrfolio_86\\addproject.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\AdminDashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\IndexWebForm.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\AddSkill.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\EditAbout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\AddProject.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\AdminDashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\AddProject.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\AdminLogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\Default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|solutionrelative:My_Portrfolio_86\\Default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\Default.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\AdminDashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|solutionrelative:My_Portrfolio_86\\AdminDashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\Styles\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\AdminLogin.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|solutionrelative:My_Portrfolio_86\\AdminLogin.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\AdminDashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\AdminRegister.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|solutionrelative:My_Portrfolio_86\\AdminRegister.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\AdminLogin.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\AdminRegister.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|solutionrelative:My_Portrfolio_86\\AdminRegister.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\AdminRegister.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\AdminDashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|solutionrelative:My_Portrfolio_86\\AdminDashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\AddProject.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\EditAbout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|solutionrelative:My_Portrfolio_86\\EditAbout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\EditProject.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\EditProject.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|solutionrelative:My_Portrfolio_86\\EditProject.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\EditProject.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\EditAbout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|solutionrelative:My_Portrfolio_86\\EditAbout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\AdminLogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\AdminLogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|solutionrelative:My_Portrfolio_86\\AdminLogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\EditAbout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\AddProject.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|solutionrelative:My_Portrfolio_86\\AddProject.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\.gitignore||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\.gitignore||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|solutionrelative:My_Portrfolio_86\\.gitignore||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\DeleteProject.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\DeleteProject.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|solutionrelative:My_Portrfolio_86\\DeleteProject.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\DeleteProject.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\DeleteSkill.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|solutionrelative:My_Portrfolio_86\\DeleteSkill.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\AddSkill.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\DeleteSkill.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|solutionrelative:My_Portrfolio_86\\DeleteSkill.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\EditSkill.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\EditSkill.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|solutionrelative:My_Portrfolio_86\\EditSkill.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\EditSkill.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\EditSkill.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|solutionrelative:My_Portrfolio_86\\EditSkill.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\AddSkill.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\AddSkill.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|solutionrelative:My_Portrfolio_86\\AddSkill.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|solutionrelative:My_Portrfolio_86\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\IndexWebForm.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\IndexWebForm.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|solutionrelative:My_Portrfolio_86\\IndexWebForm.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\Web.Debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\Web.Debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|solutionrelative:My_Portrfolio_86\\Web.Debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\Web.Release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\Web.Release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|solutionrelative:My_Portrfolio_86\\Web.Release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|solutionrelative:My_Portrfolio_86\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\IndexWebForm.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\IndexWebForm.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BC60408-9ED4-479E-B544-20DF03CC4D62}|My_Portrfolio_86\\My_Portrfolio_86.csproj|solutionrelative:My_Portrfolio_86\\IndexWebForm.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -161,305 +181,358 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\Styles\\site.css",
+              "RelativeDocumentMoniker": "My_Portrfolio_86\\Styles\\site.css",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\Styles\\site.css",
+              "RelativeToolTip": "My_Portrfolio_86\\Styles\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-10T10:57:24.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "My_Portrfolio_86\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\Default.aspx.cs",
+              "RelativeToolTip": "My_Portrfolio_86\\Default.aspx.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T12:13:56.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddProject.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\AddProject.aspx.cs",
+              "RelativeDocumentMoniker": "My_Portrfolio_86\\AddProject.aspx.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\AddProject.aspx.cs",
+              "RelativeToolTip": "My_Portrfolio_86\\AddProject.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T14:37:05.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Default.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\Default.aspx.designer.cs",
+              "RelativeDocumentMoniker": "My_Portrfolio_86\\Default.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\Default.aspx.designer.cs",
+              "RelativeToolTip": "My_Portrfolio_86\\Default.aspx.designer.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T14:42:49.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeleteProject.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\DeleteProject.aspx.cs",
+              "RelativeDocumentMoniker": "My_Portrfolio_86\\DeleteProject.aspx.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\DeleteProject.aspx.cs",
+              "RelativeToolTip": "My_Portrfolio_86\\DeleteProject.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T14:39:44.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddSkill.aspx",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\AddSkill.aspx",
+              "RelativeDocumentMoniker": "My_Portrfolio_86\\AddSkill.aspx",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\AddSkill.aspx",
+              "RelativeToolTip": "My_Portrfolio_86\\AddSkill.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-05T13:50:28.952Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\Styles\\site.css",
-              "RelativeDocumentMoniker": "..\\My_Portrfolio_86\\My_Portrfolio_86\\Styles\\site.css",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\Styles\\site.css",
-              "RelativeToolTip": "..\\My_Portrfolio_86\\My_Portrfolio_86\\Styles\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-09-05T12:46:10.896Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AdminDashboard.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\AdminDashboard.aspx.cs",
-              "RelativeDocumentMoniker": "My_Portrfolio_86\\AdminDashboard.aspx.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\AdminDashboard.aspx.cs",
-              "RelativeToolTip": "My_Portrfolio_86\\AdminDashboard.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T10:14:09.347Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AddSkill.aspx.designer.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\AddSkill.aspx.designer.cs",
-              "RelativeDocumentMoniker": "My_Portrfolio_86\\AddSkill.aspx.designer.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\AddSkill.aspx.designer.cs",
-              "RelativeToolTip": "My_Portrfolio_86\\AddSkill.aspx.designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T10:13:53.342Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Default.aspx.designer.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\Default.aspx.designer.cs",
-              "RelativeDocumentMoniker": "My_Portrfolio_86\\Default.aspx.designer.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\Default.aspx.designer.cs",
-              "RelativeToolTip": "My_Portrfolio_86\\Default.aspx.designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T10:13:50.512Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Default.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\Default.aspx.cs",
-              "RelativeDocumentMoniker": "My_Portrfolio_86\\Default.aspx.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\Default.aspx.cs",
-              "RelativeToolTip": "My_Portrfolio_86\\Default.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "EditProject.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\EditProject.aspx.cs",
+              "RelativeDocumentMoniker": "My_Portrfolio_86\\EditProject.aspx.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\EditProject.aspx.cs",
+              "RelativeToolTip": "My_Portrfolio_86\\EditProject.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T10:13:48.696Z",
+              "WhenOpened": "2025-09-05T14:38:36.392Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "AdminRegister.aspx.designer.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\AdminRegister.aspx.designer.cs",
-              "RelativeDocumentMoniker": "My_Portrfolio_86\\AdminRegister.aspx.designer.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\AdminRegister.aspx.designer.cs",
-              "RelativeToolTip": "My_Portrfolio_86\\AdminRegister.aspx.designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "AdminLogin.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\AdminLogin.aspx.cs",
+              "RelativeDocumentMoniker": "My_Portrfolio_86\\AdminLogin.aspx.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\AdminLogin.aspx.cs",
+              "RelativeToolTip": "My_Portrfolio_86\\AdminLogin.aspx.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T10:13:47.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T13:01:53.287Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "AdminLogin.aspx.designer.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\AdminLogin.aspx.designer.cs",
-              "RelativeDocumentMoniker": "My_Portrfolio_86\\AdminLogin.aspx.designer.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\AdminLogin.aspx.designer.cs",
-              "RelativeToolTip": "My_Portrfolio_86\\AdminLogin.aspx.designer.cs",
+              "Title": "Default.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\Default.aspx.designer.cs",
+              "RelativeDocumentMoniker": "..\\My_Portfolio_86\\My_Portrfolio_86\\Default.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\Default.aspx.designer.cs",
+              "RelativeToolTip": "..\\My_Portfolio_86\\My_Portrfolio_86\\Default.aspx.designer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T10:13:50.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddSkill.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\AddSkill.aspx.designer.cs",
+              "RelativeDocumentMoniker": "..\\My_Portfolio_86\\My_Portrfolio_86\\AddSkill.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\AddSkill.aspx.designer.cs",
+              "RelativeToolTip": "..\\My_Portfolio_86\\My_Portrfolio_86\\AddSkill.aspx.designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T10:13:44.666Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-10T10:13:53.342Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AdminLogin.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\AdminLogin.aspx.cs",
-              "RelativeDocumentMoniker": "My_Portrfolio_86\\AdminLogin.aspx.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\AdminLogin.aspx.cs",
-              "RelativeToolTip": "My_Portrfolio_86\\AdminLogin.aspx.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "AdminDashboard.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\AdminDashboard.aspx.cs",
+              "RelativeDocumentMoniker": "..\\My_Portfolio_86\\My_Portrfolio_86\\AdminDashboard.aspx.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\AdminDashboard.aspx.cs",
+              "RelativeToolTip": "..\\My_Portfolio_86\\My_Portrfolio_86\\AdminDashboard.aspx.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T10:12:14.402Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-10T10:14:09.347Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AdminRegister.aspx",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\AdminRegister.aspx",
-              "RelativeDocumentMoniker": "My_Portrfolio_86\\AdminRegister.aspx",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\AdminRegister.aspx",
-              "RelativeToolTip": "My_Portrfolio_86\\AdminRegister.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-09-10T10:11:43.772Z",
-              "EditorCaption": ""
+              "DocumentIndex": 12,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "..\\My_Portfolio_86\\My_Portrfolio_86\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\Default.aspx.cs",
+              "RelativeToolTip": "..\\My_Portfolio_86\\My_Portrfolio_86\\Default.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T10:13:48.696Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AdminLogin.aspx",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\AdminLogin.aspx",
-              "RelativeDocumentMoniker": "My_Portrfolio_86\\AdminLogin.aspx",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\AdminLogin.aspx",
-              "RelativeToolTip": "My_Portrfolio_86\\AdminLogin.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-09-10T10:11:42.607Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "AdminDashboard.aspx",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\AdminDashboard.aspx",
-              "RelativeDocumentMoniker": "My_Portrfolio_86\\AdminDashboard.aspx",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\AdminDashboard.aspx",
-              "RelativeToolTip": "My_Portrfolio_86\\AdminDashboard.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-09-10T10:11:41.335Z",
-              "EditorCaption": ""
+              "DocumentIndex": 13,
+              "Title": "AdminRegister.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\AdminRegister.aspx.designer.cs",
+              "RelativeDocumentMoniker": "..\\My_Portfolio_86\\My_Portrfolio_86\\AdminRegister.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\AdminRegister.aspx.designer.cs",
+              "RelativeToolTip": "..\\My_Portfolio_86\\My_Portrfolio_86\\AdminRegister.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T10:13:47.343Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "AddSkill.aspx",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\AddSkill.aspx",
-              "RelativeDocumentMoniker": "My_Portrfolio_86\\AddSkill.aspx",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\AddSkill.aspx",
-              "RelativeToolTip": "My_Portrfolio_86\\AddSkill.aspx",
+              "Title": "AdminLogin.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\AdminLogin.aspx.designer.cs",
+              "RelativeDocumentMoniker": "..\\My_Portfolio_86\\My_Portrfolio_86\\AdminLogin.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\AdminLogin.aspx.designer.cs",
+              "RelativeToolTip": "..\\My_Portfolio_86\\My_Portrfolio_86\\AdminLogin.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T10:13:44.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminLogin.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\AdminLogin.aspx.cs",
+              "RelativeDocumentMoniker": "..\\My_Portfolio_86\\My_Portrfolio_86\\AdminLogin.aspx.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\AdminLogin.aspx.cs",
+              "RelativeToolTip": "..\\My_Portfolio_86\\My_Portrfolio_86\\AdminLogin.aspx.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T10:12:14.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminRegister.aspx",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\AdminRegister.aspx",
+              "RelativeDocumentMoniker": "..\\My_Portfolio_86\\My_Portrfolio_86\\AdminRegister.aspx",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\AdminRegister.aspx",
+              "RelativeToolTip": "..\\My_Portfolio_86\\My_Portrfolio_86\\AdminRegister.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-09-10T10:11:17.388Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-10T10:11:43.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdminLogin.aspx",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\AdminLogin.aspx",
+              "RelativeDocumentMoniker": "..\\My_Portfolio_86\\My_Portrfolio_86\\AdminLogin.aspx",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\AdminLogin.aspx",
+              "RelativeToolTip": "..\\My_Portfolio_86\\My_Portrfolio_86\\AdminLogin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-10T10:11:42.607Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
+              "Title": "AdminDashboard.aspx",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\AdminDashboard.aspx",
+              "RelativeDocumentMoniker": "..\\My_Portfolio_86\\My_Portrfolio_86\\AdminDashboard.aspx",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\AdminDashboard.aspx",
+              "RelativeToolTip": "..\\My_Portfolio_86\\My_Portrfolio_86\\AdminDashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-10T10:11:41.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddSkill.aspx",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\AddSkill.aspx",
+              "RelativeDocumentMoniker": "..\\My_Portfolio_86\\My_Portrfolio_86\\AddSkill.aspx",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\AddSkill.aspx",
+              "RelativeToolTip": "..\\My_Portfolio_86\\My_Portrfolio_86\\AddSkill.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-10T10:11:17.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "AddProject.aspx.designer.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\AddProject.aspx.designer.cs",
-              "RelativeDocumentMoniker": "My_Portrfolio_86\\AddProject.aspx.designer.cs",
+              "RelativeDocumentMoniker": "..\\My_Portfolio_86\\My_Portrfolio_86\\AddProject.aspx.designer.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\AddProject.aspx.designer.cs",
-              "RelativeToolTip": "My_Portrfolio_86\\AddProject.aspx.designer.cs",
+              "RelativeToolTip": "..\\My_Portfolio_86\\My_Portrfolio_86\\AddProject.aspx.designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T10:11:10.963Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-10T10:11:10.963Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 21,
               "Title": "AddProject.aspx.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\AddProject.aspx.cs",
-              "RelativeDocumentMoniker": "My_Portrfolio_86\\AddProject.aspx.cs",
+              "RelativeDocumentMoniker": "..\\My_Portfolio_86\\My_Portrfolio_86\\AddProject.aspx.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portfolio_86\\My_Portrfolio_86\\AddProject.aspx.cs",
-              "RelativeToolTip": "My_Portrfolio_86\\AddProject.aspx.cs",
+              "RelativeToolTip": "..\\My_Portfolio_86\\My_Portrfolio_86\\AddProject.aspx.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T10:11:07.16Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-10T10:11:07.16Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 22,
               "Title": "Default.aspx",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\Default.aspx",
-              "RelativeDocumentMoniker": "..\\My_Portrfolio_86\\My_Portrfolio_86\\Default.aspx",
+              "RelativeDocumentMoniker": "My_Portrfolio_86\\Default.aspx",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\Default.aspx",
-              "RelativeToolTip": "..\\My_Portrfolio_86\\My_Portrfolio_86\\Default.aspx",
+              "RelativeToolTip": "My_Portrfolio_86\\Default.aspx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-09-05T12:12:21.237Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 23,
               "Title": "AdminDashboard.aspx",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\AdminDashboard.aspx",
-              "RelativeDocumentMoniker": "..\\My_Portrfolio_86\\My_Portrfolio_86\\AdminDashboard.aspx",
+              "RelativeDocumentMoniker": "My_Portrfolio_86\\AdminDashboard.aspx",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\AdminDashboard.aspx",
-              "RelativeToolTip": "..\\My_Portrfolio_86\\My_Portrfolio_86\\AdminDashboard.aspx",
+              "RelativeToolTip": "My_Portrfolio_86\\AdminDashboard.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-09-05T13:06:21.887Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 24,
               "Title": "AdminLogin.aspx.designer.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\AdminLogin.aspx.designer.cs",
-              "RelativeDocumentMoniker": "..\\My_Portrfolio_86\\My_Portrfolio_86\\AdminLogin.aspx.designer.cs",
+              "RelativeDocumentMoniker": "My_Portrfolio_86\\AdminLogin.aspx.designer.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\AdminLogin.aspx.designer.cs",
-              "RelativeToolTip": "..\\My_Portrfolio_86\\My_Portrfolio_86\\AdminLogin.aspx.designer.cs",
+              "RelativeToolTip": "My_Portrfolio_86\\AdminLogin.aspx.designer.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-09T15:44:31.105Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 9,
               "Title": "IndexWebForm.aspx.designer.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\IndexWebForm.aspx.designer.cs",
-              "RelativeDocumentMoniker": "..\\My_Portrfolio_86\\My_Portrfolio_86\\IndexWebForm.aspx.designer.cs",
+              "RelativeDocumentMoniker": "My_Portrfolio_86\\IndexWebForm.aspx.designer.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\IndexWebForm.aspx.designer.cs",
-              "RelativeToolTip": "..\\My_Portrfolio_86\\My_Portrfolio_86\\IndexWebForm.aspx.designer.cs",
+              "RelativeToolTip": "My_Portrfolio_86\\IndexWebForm.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-05T10:39:52.147Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 25,
               "Title": "AdminRegister.aspx.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\AdminRegister.aspx.cs",
-              "RelativeDocumentMoniker": "..\\My_Portrfolio_86\\My_Portrfolio_86\\AdminRegister.aspx.cs",
+              "RelativeDocumentMoniker": "My_Portrfolio_86\\AdminRegister.aspx.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\AdminRegister.aspx.cs",
-              "RelativeToolTip": "..\\My_Portrfolio_86\\My_Portrfolio_86\\AdminRegister.aspx.cs",
+              "RelativeToolTip": "My_Portrfolio_86\\AdminRegister.aspx.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-06T05:58:43.994Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 26,
               "Title": "AdminRegister.aspx",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\AdminRegister.aspx",
-              "RelativeDocumentMoniker": "..\\My_Portrfolio_86\\My_Portrfolio_86\\AdminRegister.aspx",
+              "RelativeDocumentMoniker": "My_Portrfolio_86\\AdminRegister.aspx",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\AdminRegister.aspx",
-              "RelativeToolTip": "..\\My_Portrfolio_86\\My_Portrfolio_86\\AdminRegister.aspx",
+              "RelativeToolTip": "My_Portrfolio_86\\AdminRegister.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-09-06T05:54:37.899Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "AddProject.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\AddProject.aspx.cs",
-              "RelativeDocumentMoniker": "..\\My_Portrfolio_86\\My_Portrfolio_86\\AddProject.aspx.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\AddProject.aspx.cs",
-              "RelativeToolTip": "..\\My_Portrfolio_86\\My_Portrfolio_86\\AddProject.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T14:37:05.268Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Default.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\Default.aspx.cs",
-              "RelativeDocumentMoniker": "..\\My_Portrfolio_86\\My_Portrfolio_86\\Default.aspx.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\Default.aspx.cs",
-              "RelativeToolTip": "..\\My_Portrfolio_86\\My_Portrfolio_86\\Default.aspx.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T12:13:56.639Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 27,
               "Title": "AdminDashboard.aspx.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\AdminDashboard.aspx.cs",
-              "RelativeDocumentMoniker": "..\\My_Portrfolio_86\\My_Portrfolio_86\\AdminDashboard.aspx.cs",
+              "RelativeDocumentMoniker": "My_Portrfolio_86\\AdminDashboard.aspx.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\AdminDashboard.aspx.cs",
-              "RelativeToolTip": "..\\My_Portrfolio_86\\My_Portrfolio_86\\AdminDashboard.aspx.cs",
+              "RelativeToolTip": "My_Portrfolio_86\\AdminDashboard.aspx.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-05T13:07:34.653Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 28,
               "Title": "EditAbout.aspx.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\EditAbout.aspx.cs",
-              "RelativeDocumentMoniker": "..\\My_Portrfolio_86\\My_Portrfolio_86\\EditAbout.aspx.cs",
+              "RelativeDocumentMoniker": "My_Portrfolio_86\\EditAbout.aspx.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\EditAbout.aspx.cs",
-              "RelativeToolTip": "..\\My_Portrfolio_86\\My_Portrfolio_86\\EditAbout.aspx.cs",
+              "RelativeToolTip": "My_Portrfolio_86\\EditAbout.aspx.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-05T13:12:11.468Z"
             },
@@ -468,9 +541,9 @@
               "DocumentIndex": 29,
               "Title": "EditProject.aspx",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\EditProject.aspx",
-              "RelativeDocumentMoniker": "..\\My_Portrfolio_86\\My_Portrfolio_86\\EditProject.aspx",
+              "RelativeDocumentMoniker": "My_Portrfolio_86\\EditProject.aspx",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\EditProject.aspx",
-              "RelativeToolTip": "..\\My_Portrfolio_86\\My_Portrfolio_86\\EditProject.aspx",
+              "RelativeToolTip": "My_Portrfolio_86\\EditProject.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-09-05T14:38:14.102Z"
@@ -478,80 +551,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 30,
-              "Title": "EditProject.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\EditProject.aspx.cs",
-              "RelativeDocumentMoniker": "..\\My_Portrfolio_86\\My_Portrfolio_86\\EditProject.aspx.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\EditProject.aspx.cs",
-              "RelativeToolTip": "..\\My_Portrfolio_86\\My_Portrfolio_86\\EditProject.aspx.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAswGQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T14:38:36.392Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "AdminLogin.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\AdminLogin.aspx.cs",
-              "RelativeDocumentMoniker": "..\\My_Portrfolio_86\\My_Portrfolio_86\\AdminLogin.aspx.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\AdminLogin.aspx.cs",
-              "RelativeToolTip": "..\\My_Portrfolio_86\\My_Portrfolio_86\\AdminLogin.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T13:01:53.287Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
               "Title": "EditAbout.aspx",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\EditAbout.aspx",
-              "RelativeDocumentMoniker": "..\\My_Portrfolio_86\\My_Portrfolio_86\\EditAbout.aspx",
+              "RelativeDocumentMoniker": "My_Portrfolio_86\\EditAbout.aspx",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\EditAbout.aspx",
-              "RelativeToolTip": "..\\My_Portrfolio_86\\My_Portrfolio_86\\EditAbout.aspx",
+              "RelativeToolTip": "My_Portrfolio_86\\EditAbout.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-09-05T13:10:51.943Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 31,
               "Title": "AdminLogin.aspx",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\AdminLogin.aspx",
-              "RelativeDocumentMoniker": "..\\My_Portrfolio_86\\My_Portrfolio_86\\AdminLogin.aspx",
+              "RelativeDocumentMoniker": "My_Portrfolio_86\\AdminLogin.aspx",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\AdminLogin.aspx",
-              "RelativeToolTip": "..\\My_Portrfolio_86\\My_Portrfolio_86\\AdminLogin.aspx",
+              "RelativeToolTip": "My_Portrfolio_86\\AdminLogin.aspx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-09-05T13:00:11.94Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 32,
               "Title": "AddProject.aspx",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\AddProject.aspx",
-              "RelativeDocumentMoniker": "..\\My_Portrfolio_86\\My_Portrfolio_86\\AddProject.aspx",
+              "RelativeDocumentMoniker": "My_Portrfolio_86\\AddProject.aspx",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\AddProject.aspx",
-              "RelativeToolTip": "..\\My_Portrfolio_86\\My_Portrfolio_86\\AddProject.aspx",
+              "RelativeToolTip": "My_Portrfolio_86\\AddProject.aspx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-09-05T14:36:39.343Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Default.aspx.designer.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\Default.aspx.designer.cs",
-              "RelativeDocumentMoniker": "..\\My_Portrfolio_86\\My_Portrfolio_86\\Default.aspx.designer.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\Default.aspx.designer.cs",
-              "RelativeToolTip": "..\\My_Portrfolio_86\\My_Portrfolio_86\\Default.aspx.designer.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T14:42:49.251Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 33,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\.gitignore",
-              "RelativeDocumentMoniker": "..\\My_Portrfolio_86\\My_Portrfolio_86\\.gitignore",
+              "RelativeDocumentMoniker": "My_Portrfolio_86\\.gitignore",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\.gitignore",
-              "RelativeToolTip": "..\\My_Portrfolio_86\\My_Portrfolio_86\\.gitignore",
+              "RelativeToolTip": "My_Portrfolio_86\\.gitignore",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-09-05T15:54:44.506Z"
@@ -561,9 +599,9 @@
               "DocumentIndex": 34,
               "Title": "DeleteProject.aspx",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\DeleteProject.aspx",
-              "RelativeDocumentMoniker": "..\\My_Portrfolio_86\\My_Portrfolio_86\\DeleteProject.aspx",
+              "RelativeDocumentMoniker": "My_Portrfolio_86\\DeleteProject.aspx",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\DeleteProject.aspx",
-              "RelativeToolTip": "..\\My_Portrfolio_86\\My_Portrfolio_86\\DeleteProject.aspx",
+              "RelativeToolTip": "My_Portrfolio_86\\DeleteProject.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-09-05T14:39:30.079Z"
@@ -571,46 +609,22 @@
             {
               "$type": "Document",
               "DocumentIndex": 35,
-              "Title": "DeleteProject.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\DeleteProject.aspx.cs",
-              "RelativeDocumentMoniker": "..\\My_Portrfolio_86\\My_Portrfolio_86\\DeleteProject.aspx.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\DeleteProject.aspx.cs",
-              "RelativeToolTip": "..\\My_Portrfolio_86\\My_Portrfolio_86\\DeleteProject.aspx.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAYwB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T14:39:44.798Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "AddSkill.aspx",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\AddSkill.aspx",
-              "RelativeDocumentMoniker": "..\\My_Portrfolio_86\\My_Portrfolio_86\\AddSkill.aspx",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\AddSkill.aspx",
-              "RelativeToolTip": "..\\My_Portrfolio_86\\My_Portrfolio_86\\AddSkill.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-09-05T13:50:28.952Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "DeleteSkill.aspx.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\DeleteSkill.aspx.cs",
-              "RelativeDocumentMoniker": "..\\My_Portrfolio_86\\My_Portrfolio_86\\DeleteSkill.aspx.cs",
+              "RelativeDocumentMoniker": "My_Portrfolio_86\\DeleteSkill.aspx.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\DeleteSkill.aspx.cs",
-              "RelativeToolTip": "..\\My_Portrfolio_86\\My_Portrfolio_86\\DeleteSkill.aspx.cs",
+              "RelativeToolTip": "My_Portrfolio_86\\DeleteSkill.aspx.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-05T14:01:17.587Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 36,
               "Title": "DeleteSkill.aspx",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\DeleteSkill.aspx",
-              "RelativeDocumentMoniker": "..\\My_Portrfolio_86\\My_Portrfolio_86\\DeleteSkill.aspx",
+              "RelativeDocumentMoniker": "My_Portrfolio_86\\DeleteSkill.aspx",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\DeleteSkill.aspx",
-              "RelativeToolTip": "..\\My_Portrfolio_86\\My_Portrfolio_86\\DeleteSkill.aspx",
+              "RelativeToolTip": "My_Portrfolio_86\\DeleteSkill.aspx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-09-05T13:59:03.094Z"
             },
@@ -619,9 +633,9 @@
               "DocumentIndex": 37,
               "Title": "EditSkill.aspx",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\EditSkill.aspx",
-              "RelativeDocumentMoniker": "..\\My_Portrfolio_86\\My_Portrfolio_86\\EditSkill.aspx",
+              "RelativeDocumentMoniker": "My_Portrfolio_86\\EditSkill.aspx",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\EditSkill.aspx",
-              "RelativeToolTip": "..\\My_Portrfolio_86\\My_Portrfolio_86\\EditSkill.aspx",
+              "RelativeToolTip": "My_Portrfolio_86\\EditSkill.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-09-05T13:57:11.251Z"
@@ -631,9 +645,9 @@
               "DocumentIndex": 38,
               "Title": "EditSkill.aspx.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\EditSkill.aspx.cs",
-              "RelativeDocumentMoniker": "..\\My_Portrfolio_86\\My_Portrfolio_86\\EditSkill.aspx.cs",
+              "RelativeDocumentMoniker": "My_Portrfolio_86\\EditSkill.aspx.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\EditSkill.aspx.cs",
-              "RelativeToolTip": "..\\My_Portrfolio_86\\My_Portrfolio_86\\EditSkill.aspx.cs",
+              "RelativeToolTip": "My_Portrfolio_86\\EditSkill.aspx.cs",
               "ViewState": "AgIAADcAAAAAAAAAAAAYwEoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-05T13:57:39.742Z"
@@ -643,9 +657,9 @@
               "DocumentIndex": 39,
               "Title": "AddSkill.aspx.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\AddSkill.aspx.cs",
-              "RelativeDocumentMoniker": "..\\My_Portrfolio_86\\My_Portrfolio_86\\AddSkill.aspx.cs",
+              "RelativeDocumentMoniker": "My_Portrfolio_86\\AddSkill.aspx.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\AddSkill.aspx.cs",
-              "RelativeToolTip": "..\\My_Portrfolio_86\\My_Portrfolio_86\\AddSkill.aspx.cs",
+              "RelativeToolTip": "My_Portrfolio_86\\AddSkill.aspx.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAYwDMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-05T13:52:21.901Z"
@@ -655,21 +669,22 @@
               "DocumentIndex": 40,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\Web.config",
-              "RelativeDocumentMoniker": "..\\My_Portrfolio_86\\My_Portrfolio_86\\Web.config",
+              "RelativeDocumentMoniker": "My_Portrfolio_86\\Web.config",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\Web.config",
-              "RelativeToolTip": "..\\My_Portrfolio_86\\My_Portrfolio_86\\Web.config",
+              "RelativeToolTip": "My_Portrfolio_86\\Web.config",
               "ViewState": "AgIAAAMAAAAAAAAAAAAiwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-09-05T12:14:54.678Z"
+              "WhenOpened": "2025-09-05T12:14:54.678Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 41,
               "Title": "IndexWebForm.aspx",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\IndexWebForm.aspx",
-              "RelativeDocumentMoniker": "..\\My_Portrfolio_86\\My_Portrfolio_86\\IndexWebForm.aspx",
+              "RelativeDocumentMoniker": "My_Portrfolio_86\\IndexWebForm.aspx",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\IndexWebForm.aspx",
-              "RelativeToolTip": "..\\My_Portrfolio_86\\My_Portrfolio_86\\IndexWebForm.aspx",
+              "RelativeToolTip": "My_Portrfolio_86\\IndexWebForm.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-09-05T09:52:27.108Z"
@@ -679,9 +694,9 @@
               "DocumentIndex": 42,
               "Title": "Web.Debug.config",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\Web.Debug.config",
-              "RelativeDocumentMoniker": "..\\My_Portrfolio_86\\My_Portrfolio_86\\Web.Debug.config",
+              "RelativeDocumentMoniker": "My_Portrfolio_86\\Web.Debug.config",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\Web.Debug.config",
-              "RelativeToolTip": "..\\My_Portrfolio_86\\My_Portrfolio_86\\Web.Debug.config",
+              "RelativeToolTip": "My_Portrfolio_86\\Web.Debug.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2025-09-05T10:39:33.399Z"
@@ -691,9 +706,9 @@
               "DocumentIndex": 43,
               "Title": "Web.Release.config",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\Web.Release.config",
-              "RelativeDocumentMoniker": "..\\My_Portrfolio_86\\My_Portrfolio_86\\Web.Release.config",
+              "RelativeDocumentMoniker": "My_Portrfolio_86\\Web.Release.config",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\Web.Release.config",
-              "RelativeToolTip": "..\\My_Portrfolio_86\\My_Portrfolio_86\\Web.Release.config",
+              "RelativeToolTip": "My_Portrfolio_86\\Web.Release.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2025-09-05T10:39:35.243Z"
@@ -703,9 +718,9 @@
               "DocumentIndex": 44,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\Properties\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "..\\My_Portrfolio_86\\My_Portrfolio_86\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "My_Portrfolio_86\\Properties\\AssemblyInfo.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\Properties\\AssemblyInfo.cs",
-              "RelativeToolTip": "..\\My_Portrfolio_86\\My_Portrfolio_86\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "My_Portrfolio_86\\Properties\\AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-05T10:42:50.679Z"
@@ -715,9 +730,9 @@
               "DocumentIndex": 45,
               "Title": "IndexWebForm.aspx.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\IndexWebForm.aspx.cs",
-              "RelativeDocumentMoniker": "..\\My_Portrfolio_86\\My_Portrfolio_86\\IndexWebForm.aspx.cs",
+              "RelativeDocumentMoniker": "My_Portrfolio_86\\IndexWebForm.aspx.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\My_Portrfolio_86\\My_Portrfolio_86\\IndexWebForm.aspx.cs",
-              "RelativeToolTip": "..\\My_Portrfolio_86\\My_Portrfolio_86\\IndexWebForm.aspx.cs",
+              "RelativeToolTip": "My_Portrfolio_86\\IndexWebForm.aspx.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAgwAsAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-05T10:39:47.619Z"
